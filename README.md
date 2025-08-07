@@ -17,8 +17,7 @@ I created a small JavaScript program that:
 
 ## 📸 Preview
 
-![Alert Function Preview](<img width="1439" height="512" alt="Screenshot 2025-08-07 123042" src="https://github.com/user-attachments/assets/b61525c0-2139-4089-a88a-177fbba9b3f8" />
-) <!-- (Optional) Add a screenshot if available -->
+![Alert Function Preview]([Screenshot 2025-08-07 123042.png](https://github-production-user-asset-6210df.s3.amazonaws.com/160496414/475442605-b61525c0-2139-4089-a88a-177fbba9b3f8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250807T073208Z&X-Amz-Expires=300&X-Amz-Signature=7f85a586988b80c8c537997c8f786b3eded8e1549fa2ec9382bc7a9187f5537a&X-Amz-SignedHeaders=host)) <!-- (Optional) Add a screenshot if available -->
 
 ## 🧠 Key Concepts Used
 
