@@ -17,7 +17,8 @@ I created a small JavaScript program that:
 
 ## 📸 Preview
 
-![Alert Function Preview](screenshot.png) <!-- (Optional) Add a screenshot if available -->
+![Alert Function Preview](<img width="1439" height="512" alt="Screenshot 2025-08-07 123042" src="https://github.com/user-attachments/assets/b61525c0-2139-4089-a88a-177fbba9b3f8" />
+) <!-- (Optional) Add a screenshot if available -->
 
 ## 🧠 Key Concepts Used
 
